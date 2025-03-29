@@ -18,4 +18,22 @@ Welcome to the **Gen AI Analytics Dashboard Prototype**, a React-based single-pa
 - **Data Visualization**: Recharts
 - **Build Tool**: Vite
 
-## 📂 Project Structure
+
+## 🖥️ Live Demo
+
+Check out the deployed project here: [Live Demo](https://gen-ai-analytics-alpha.vercel.app/)
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aditya28122008/GenAiAnalytics
+   cd gen-ai-dashboard
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server
+   npm run dev
+
+4. Open the app in your browser at http://localhost:5173.
